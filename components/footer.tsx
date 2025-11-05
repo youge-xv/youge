@@ -5,32 +5,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 import { AiOutlineSpotify, AiOutlineWhatsApp } from "react-icons/ai";
 
 const socialLinks = [
-    { href: "https://github.com/balxz", icon: LuGithub, label: "GitHub" },
-    {
-        href: "https://instagram.com/iqstore78",
-        icon: LuInstagram,
-        label: "Instagram"
-    },
-    {
-        href: "https://www.tiktok.com/@iqstore78",
-        icon: SiTiktok,
-        label: "TikTok"
-    },
-    {
-        href: "https://www.facebook.com/profile.php?id=100068517258575",
-        icon: LuFacebook,
-        label: "Facebook"
-    },
-    { href: "https://t.me/sh_team1", icon: FaTelegramPlane, label: "Telegram" },
-    {
-        href: "https://open.spotify.com/user/31gyydb6nrybykazukcltki64mhu?si=AxXmd5BySlOjMVZGR2ucIg",
-        icon: AiOutlineSpotify,
-        label: "Spotify"
-    },
-    {
-        href: "https://whatsapp.com/channel/0029Vb6iksr1NCrNVq8mtd3p",
-        icon: AiOutlineWhatsApp,
-        label: "WhatsApp"
+    { href: "https://t.me/yougefor", icon: FaTelegramPlane, label: "Telegram" },
     }
 ];
 
