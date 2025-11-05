@@ -13,13 +13,13 @@ const roadmapItems = [
   },
   {
     year: "2023 |",
-    title: "mencoba membuat bot WhatsApp",
+    title: "mencoba membuat bot telegram",
     description: "Belajar dari youtube",
   },
   {
     year: "2023  |",
     title: "mendalami dunia programing",
-    description: "Membuat WhatsApp bot dan projects web kecil",
+    description: "Membuat telegram bot dan projects web kecil",
   },
   {
     year: "2024  |",
