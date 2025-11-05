@@ -10,27 +10,8 @@ import Link from "next/link"
 const projects = [
   {
     id: 1,
-    title: "WhatsApp Bot",
-    description: "wa-bot multidevice using local database.",
-    image: "https://raw.githubusercontent.com/balxz/akuuu-muaakk/refs/heads/main/New%20Project%201%20%5BD5F6756%5D.png",
-    demo: "https://github.com/balxz/Shiina-WaBot#readme",
-    repo: "https://github.com/balxz/Shiina-WaBot.git",
-  },
-  {
-    id: 2,
-    title: "Shiina Api's",
-    description: "Shiina API is a data integration platform between other platforms that has been active since 2024.",
-    image: "https://raw.githubusercontent.com/balxz/akuuu-muaakk/refs/heads/main/New%20Project%201%20%5BC203868%5D.png",
-    demo: "/dashboard",
-    repo: "https://github.com/balxz/swagger-nextjs.git",
-  },
-  {
-    id: 3,
-    title: "Portfolio Web ? Blog Web",
-    description: "Simple Website about Iqbal.",
-    image: "https://raw.githubusercontent.com/balxz/akuuu-muaakk/refs/heads/main/New%20Project%203%20%5B0C67D63%5D.png",
-    demo: "/#",
-    repo: "https://github.com/balxz/swagger-nextjs.git",
+    title: "Y-2 Bot",
+    description: "bot focus on AI features.",    
   },
 ]
 
