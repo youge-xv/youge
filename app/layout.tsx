@@ -18,8 +18,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "bàlxzzy`– ხαlzz",
-  description: "balzz (iqbal), juga dikenal sebagai balxzzy sh atau balxz. seorang pemula yang fokus pada pengembangan web, scraping, web api, ai, bot whatsapp, bot telegram, serta framework react, next, vite, dan astro. terus belajar dan berkembang di dunia teknologi sejak 2023",
+  title: "Youge",
+  description: "balzz (iqbal), juga dikenal sebagai Youge. seorang pemula yang fokus pada pengembangan web, scraping, web api, ai, bot telegram, serta framework react, next, vite, dan astro. terus belajar dan berkembang di dunia teknologi sejak 2023",
 }
 
 export default function RootLayout({
